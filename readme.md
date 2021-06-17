@@ -1,7 +1,7 @@
 # Личный проект «Типотека» [![Build status][travis-image]][travis-url]
 
 * Студент: [Renat Khabirov](https://up.htmlacademy.ru/nodejs/3/user/1678815).
-* Наставник: `Неизвестно`.
+* Наставник: [Юрий Кучма]
 
 ---
 
