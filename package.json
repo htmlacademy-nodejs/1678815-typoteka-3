@@ -1,0 +1,21 @@
+{
+  "name": "buy-and-sell",
+  "version": "1.0.0",
+  "description": "Куплю. Продам",
+  "main": "./src/service/service.js",
+  "scripts": {
+    "start": "node ./src/service/service.js -g 10",
+    "test": "npm run eslint",
+    "eslint": "eslint --ext .js src/"
+  },
+  "keywords": [],
+  "author": "RenEstel",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "8.48.0",
+    "eslint-config-htmlacademy": "0.6.0"
+  },
+  "dependencies": {
+    "commander": "11.0.0"
+  }
+}
